@@ -21,7 +21,7 @@ Optional but recommended:
 - `source MYVENVNAME/bin/activate`
 
 Install:
-- `pip install git+https://github.com/glspi/prisma_tools.git`
+- `pip install git+https://github.com/nopg/prisma_tools.git`
 
 ## Usage
 The installation process will install an executable `ptools` on your path. Run `ptools --help` for help.
